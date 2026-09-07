@@ -11,14 +11,14 @@ Needs g++ with C++17 support (basically any semi-recent version).
 make
 ```
 
-This spits out a `diskpeek` binary in the same folder.
+This spits out a `hexapeek` binary in the same folder.
 
 ## usage
 
 ```
-./diskpeek <directory>
-./diskpeek /home/me/Downloads
-./diskpeek . -n 10
+./hexapeek <directory>
+./hexapeek /home/me/Downloads
+./hexapeek . -n 10
 ```
 
 - `-n <num>` : how many results to print (default 20)
