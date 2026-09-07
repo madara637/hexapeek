@@ -1,4 +1,4 @@
-# diskpeek
+# hexapeek
 
 Small command line tool for Linux that scans a directory and shows you
 what's taking up the most space
