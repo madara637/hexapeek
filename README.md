@@ -1,8 +1,7 @@
 # diskpeek
 
 Small command line tool for Linux that scans a directory and shows you
-what's taking up the most space. I got tired of running `du -sh */ | sort -h`
-every time my disk filled up so I wrote this instead.
+what's taking up the most space
 
 ## build
 
